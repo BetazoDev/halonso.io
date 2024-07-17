@@ -83,10 +83,10 @@ const Slider = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/HumbertoAlonsoCVSeptember2023.pdf"
+                    href="img/Humberto Alonso 2024 Eng.pdf"
                     download
                   >
-                    {sliderContent.btnText}
+                    {sliderContent.btnText} 
                   </a>
                 </div>
               </div>
